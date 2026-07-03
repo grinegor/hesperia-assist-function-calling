@@ -33,4 +33,6 @@ All planned local validation commands passed before publication:
 
 ## Publication
 
-Publication is required because TaskLearn asks for `repo_url`. Repository URL is pending until the GitHub publication step finishes.
+Publication is required because TaskLearn asks for `repo_url`.
+
+Repository URL: `https://github.com/grinegor/hesperia-assist-function-calling`

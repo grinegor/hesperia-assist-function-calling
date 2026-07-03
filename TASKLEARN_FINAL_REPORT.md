@@ -24,4 +24,4 @@ None yet.
 
 ## Blockers
 
-None locally. GitHub publication and TaskLearn submission are still pending.
+None locally. GitHub publication succeeded at `https://github.com/grinegor/hesperia-assist-function-calling`; TaskLearn submission is still pending.

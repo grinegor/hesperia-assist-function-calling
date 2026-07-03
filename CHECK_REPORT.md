@@ -31,9 +31,16 @@ python3 scripts/secret_scan.py
 - CLI smoke test: PASS, returned structured order response
 - Secret scan: PASS, no committed secrets detected
 
+## Publication Check
+
+- Public GitHub URL: `https://github.com/grinegor/hesperia-assist-function-calling`
+- `.env` was absent from the project folder before publication.
+- `.gitignore` ignores `.env`.
+- `scripts/secret_scan.py` passed before publication.
+
 ## Missing Pieces
 
-- Public GitHub URL and TaskLearn evaluation are pending after this local checker pass.
+- TaskLearn evaluation is pending after this local checker pass.
 
 ## Risk Notes
 

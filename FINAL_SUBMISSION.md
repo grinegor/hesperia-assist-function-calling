@@ -1,11 +1,11 @@
 # Final Submission
 
-Status: locally ready; GitHub URL pending publication
+Status: locally ready and published; TaskLearn evaluation pending
 
 TaskLearn deliverables:
 
 - `tool_contracts.json`
-- `repo_url`: pending
+- `repo_url`: `https://github.com/grinegor/hesperia-assist-function-calling`
 - `e2e_tests.json`
 
 Validated locally with:
