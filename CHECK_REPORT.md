@@ -1,6 +1,6 @@
 # Check Report
 
-Status: PASS locally before TaskLearn submission
+Status: PASS locally and accepted by TaskLearn
 
 ## Scope Checked
 
@@ -40,7 +40,15 @@ python3 scripts/secret_scan.py
 
 ## Missing Pieces
 
-- TaskLearn evaluation is pending after this local checker pass.
+- None.
+
+## TaskLearn Submission Result
+
+- Attempt count: 1
+- Final status: accepted
+- Score: `100 / 100`
+- Success state: TaskLearn displayed `New High Score!` and certificate text that `cman01` completed all deliverables, met requirements, and successfully passed the AI evaluation metrics.
+- Evidence path: `/Users/egorgrin/Desktop/tasklearn-tasks/2026-07-03-give-an-llm-access-to-external-apis-function-calling/submission_attempts/attempt_1/evaluation.png`
 
 ## Risk Notes
 

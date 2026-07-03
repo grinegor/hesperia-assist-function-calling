@@ -1,6 +1,6 @@
 # Final Submission
 
-Status: locally ready and published; TaskLearn evaluation pending
+Status: accepted by TaskLearn
 
 TaskLearn deliverables:
 
@@ -15,3 +15,9 @@ Validated locally with:
 - `python3 scripts/run_e2e.py`
 - `python3 -m hesperia_assist.cli --tool order_lookup --arguments '{"order_id":"ord_1001","customer_id":"cus_100"}'`
 - `python3 scripts/secret_scan.py`
+
+TaskLearn result:
+
+- Attempt count: 1
+- Score: `100 / 100`
+- Status text: `New High Score!`
